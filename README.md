@@ -19,3 +19,17 @@
 * Graphs 
   * Tries
   For each data structure, provide essential operations (insert, delete, search, update).
+
+
+### LinkedList
+
+| Operations  | Time Complexity | Space Complexity |
+|-------------|-----------------|------------------|
+| insertAtPos | O(n)            | O(1)             |
+| insertFirst | O(1)            | O(1)             |
+| insertLast  | O(n)            | O(1)             |
+| deleteAtPos | O(n)            | O(1)             |
+| deleteFirst | O(1)            | O(1)             |
+| deleteLast  | O(n)            | O(1)             |
+| search      | O(n)            | O(1)             |
+
